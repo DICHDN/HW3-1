@@ -1,0 +1,4 @@
+﻿  ДЗ-3 задача 1.cpp
+G:\YandexDisk\Study\AdvancedCPPHW3\ДЗ-3 задача 1\ДЗ-3 задача 1\ДЗ-3 задача 1.cpp(78): warning C4715: Calculator::divide_1_2: значение возвращается не при всех путях выполнения
+G:\YandexDisk\Study\AdvancedCPPHW3\ДЗ-3 задача 1\ДЗ-3 задача 1\ДЗ-3 задача 1.cpp(86): warning C4715: Calculator::divide_2_1: значение возвращается не при всех путях выполнения
+  ДЗ-3 задача 1.vcxproj -> G:\YandexDisk\Study\AdvancedCPPHW3\ДЗ-3 задача 1\x64\Debug\ДЗ-3 задача 1.exe
